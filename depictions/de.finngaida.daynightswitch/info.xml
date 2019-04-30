@@ -1,0 +1,20 @@
+<package>
+	<id>de.finngaida.daynightswitch</id>
+	<name>DayNightSwitch</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description></description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
