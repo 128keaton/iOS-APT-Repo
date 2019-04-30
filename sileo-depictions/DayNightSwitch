@@ -78,7 +78,15 @@
         {
           "spacing": 20,
           "class": "DepictionSpacerView"
-        }
+        },
+         {  
+               "class":"DepictionImageView",
+               "URL":"https:\/\/repo.nepeta.me\/assets\/sileo.png",
+               "height":44,
+               "width":36,
+               "alignment":1,
+               "cornerRadius":0
+            },
       ],
       "class": "DepictionStackView"
     },
